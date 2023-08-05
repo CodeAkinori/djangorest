@@ -1,0 +1,2 @@
+# djangorest
+Django Site Application
